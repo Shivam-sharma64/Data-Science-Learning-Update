@@ -2,7 +2,7 @@
 📹 [Watch here](https://www.youtube.com/@DATANUGGETz)
 
 **Files:**
-- [day1_intro.py](Day1_Python_Basics/day1_intro.ipynb)
+- [day1_intro.py](python_basics.ipynb)
 - [day1_notes.md](Day1_Python_Basics/day1_notes.md)
 
 ---
