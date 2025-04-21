@@ -85,6 +85,14 @@ Here you'll find all the practice files, notebooks, and code organized by days a
 - [my_module.py](./my_module.py)
 
 ---
+### ✅ Day 12: SQL
+📁 Files:
+- [sql 1.ipynb](./sql%201.ipynb)
+- [sql2.ipynb](./sql2.ipynb)
+- [sql small task solving.ipynb](./sql%20small%20task%20solving.ipynb)
+- [car.data](./car.data)
+- [glass.data](./glass.data)
+- 
 
 > 🛠 Note: Some files are supporting examples, logs, and practice exercises.
 > 📈 More updates coming soon with video links and assignments!
