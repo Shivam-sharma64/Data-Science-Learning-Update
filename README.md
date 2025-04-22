@@ -1,6 +1,6 @@
 # Data-science-youtube
 
-## 📚 DATA NUGGETZ - YouTube Channel
+## 📚 DATA NUGGETZ - YouTube Channel  
 Welcome to the official GitHub repository for the **Data Nuggetz** YouTube channel!  
 Here you'll find all the practice files, notebooks, and code organized by days and topics.
 
@@ -9,6 +9,8 @@ Here you'll find all the practice files, notebooks, and code organized by days a
 ---
 
 ## 📅 Daily Learning Series
+
+---
 
 ### ✅ Day 1: Python Basics  
 📁 Files:
@@ -67,8 +69,11 @@ Here you'll find all the practice files, notebooks, and code organized by days a
 
 ---
 
-### ✅ Day 9: File Handling (Separate Topic - Coming Soon)  
-📁 Files: *Will be split if needed*
+### ✅ Day 9: File Handling & Iterators  
+📁 Files:
+- Included in Day 8 (`iterator generator.ipynb`)
+
+🎥 Video: [Python Iterators & Generators Explained](https://youtu.be/PoyHjjbUVfo)
 
 ---
 
@@ -76,6 +81,8 @@ Here you'll find all the practice files, notebooks, and code organized by days a
 📁 Files:
 - [exception handling.ipynb](./exception%20handling.ipynb)  
 - [logging.ipynb](./logging.ipynb)
+
+🎥 Video: [File Handling & Exception Handling in Python](https://youtu.be/ffvp760SZm4)
 
 ---
 
@@ -85,19 +92,28 @@ Here you'll find all the practice files, notebooks, and code organized by days a
 - [my_module.py](./my_module.py)
 
 ---
-### ✅ Day 12: SQL & NoSQL Practice
+
+### ✅ Day 12: SQL & NoSQL Practice  
 📁 Files:
 - [sql 1.ipynb](./sql%201.ipynb)
 - [sql2.ipynb](./sql2.ipynb)
-- [sql small task solving.ipynb](./sql%20small%20task%20solving.ipynb)
+- [sql small task solving.ipynb](./sql%20small%20task%20solving.ipynb)  
+  *Mini SQL challenges and practice problems*
+- [sqlite.ipynb](./sqlite.ipynb)  
+  *Learn to use SQLite with Python using the built-in `sqlite3` library. Covers creating databases, tables, inserting, querying, updating, deleting, and handling transactions.*
+- [mongodb 1.ipynb](./mongodb%201.ipynb)
 - [car.data](./car.data)
 - [glass.data](./glass.data)
-- - [sql small task solving.ipynb](./sql%20small%20task%20solving.ipynb)  
-  *Mini SQL challenges and practice problems*
-- 
 
-> 🛠 Note: Some files are supporting examples, logs, and practice exercises.
-> 📈 More updates coming soon with video links and assignments!
+---
 
-Happy Learning & Keep Building 💡  
-— Team **Data Nuggetz**
+## 🛠️ Notes
+
+- Some files are sample data, logs, or helper modules used in videos.
+- All `.ipynb` notebooks are explained step-by-step in the respective YouTube video or session.
+
+---
+
+## 🎉 Keep Learning & Stay Consistent  
+Made with ❤️ by **Team Data Nuggetz**  
+Subscribe, practice, and grow with us!  
